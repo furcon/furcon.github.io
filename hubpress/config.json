@@ -4,7 +4,13 @@
     "repositoryName": "furcon.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Furc On It!",
+    "description": "fjq's blog",
+    "cover": "https://uploads2.wikiart.org/images/vincent-van-gogh/the-starry-night-1889(1).jpg"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
