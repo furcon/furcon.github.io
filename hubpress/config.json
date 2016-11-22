@@ -9,7 +9,11 @@
     "description": "fjq's blog",
     "cover": "https://uploads2.wikiart.org/images/vincent-van-gogh/the-starry-night-1889(1).jpg"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "twitter": "https://twitter.com/furconit",
+    "linkedin": "https://www.linkedin.com/in/furqan-qureshi-07a4b7126?trk=hp-identity-name",
+    "github": "https://github.com/furcon"
+  },
   "theme": {
     "name": "casper"
   }
