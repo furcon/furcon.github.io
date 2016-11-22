@@ -4,7 +4,17 @@
     "repositoryName": "furcon.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Furc On It!",
+    "description": "fjq's blog",
+    "cover": "/images/starry-night.jpg"
+  },
+  "socialnetwork": {
+    "twitter": "https://twitter.com/furconit",
+    "linkedin": "https://www.linkedin.com/in/furqan-qureshi-07a4b7126?trk=hp-identity-name",
+    "github": "https://github.com/furcon"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "saga"
   }
 }
