@@ -7,7 +7,7 @@
   "site": {
     "title": "Furc On It!",
     "description": "fjq's blog",
-    "cover": "https://uploads2.wikiart.org/images/vincent-van-gogh/the-starry-night-1889(1).jpg"
+    "cover": "/images/starry-night.jpg"
   },
   "socialnetwork": {
     "twitter": "https://twitter.com/furconit",
@@ -15,6 +15,6 @@
     "github": "https://github.com/furcon"
   },
   "theme": {
-    "name": "ghostium"
+    "name": "saga"
   }
 }
