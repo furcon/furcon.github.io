@@ -7,6 +7,7 @@
   "site": {
     "title": "Furc On It!",
     "description": "fjq's blog",
+    "logo": "/images/fjq-logo.png",
     "cover": "/images/starry-night.jpg"
   },
   "socialnetwork": {
